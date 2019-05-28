@@ -12,6 +12,6 @@ Idea is to demonstrate data science workflow where:
 * Create a new Machine Learning Service Workspace in portal.azure.com (or use a shared one)
 * Download the configuration ('download config.json' from overview pane)
 * This was developed with Python 3.7
-* Download the MNIST dataset by running `python initial_setup`. In SR network you need to setup the proxies as env variables.
+* Download the MNIST dataset by running `python initial_setup`.
 
 
